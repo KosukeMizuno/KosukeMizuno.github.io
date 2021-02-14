@@ -11,10 +11,10 @@ Kosuke Mizuno (水野 皓介)
 
 ## EDUCATION
 
-- Tokyo Institute of Technology (Tokyo Tech., 東京工業大学)
+- [Tokyo Institute of Technology](https://www.titech.ac.jp/) (Tokyo Tech., 東京工業大学)
   - Since April 2018 -- Now:
     - Doctral student
-    - Hatano-Iwasaki group, Department of Electrical and Electronic Engineering, School of Engineering
+    - [Hatano-Iwasaki group](http://dia.pe.titech.ac.jp/), Department of Electrical and Electronic Engineering, School of Engineering
   - March 2018:
     - Master of Engineering, 修士（工学）
     - Hatano-Kodera group, Department of Electrical and Electronic Engineering, School of Engineering
@@ -46,7 +46,7 @@ Kosuke Mizuno (水野 皓介)
 - Presentation Award, at The First International Forum on Quantum Sensing, February 2019.
 - Elsevier Silver Young Scholar Award, at 29th International Conference on Diamond and Carbon Material, September 2019.
 - 第4回エレクトロニクスソサイエティ優秀学生修了表彰 (The 4th Electronics society student award), from 電子情報通信学会 (The Institute of Electronics, Information and Communication Engineers), March 2018.
-- Outstanding master thesis award (優秀修士論文賞), from Tokyo Institute of Technology, March 2018.
+- 優秀修士論文賞 (Outstanding master thesis award), from 東京工業大学 (Tokyo Institute of Technology), March 2018.
 
 
 
