@@ -1,11 +1,13 @@
+Activity list
+
 # Profile
 
 Kosuke Mizuno (水野 皓介)
 - Doctral student, 博士後期課程学生
 
 - Links
-  - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9219-8656" href="https://orcid.org/0000-0001-9219-8656" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9219-8656</a></div>
-  - [github.com/KosukeMizuno/](https://github.com/KosukeMizuno/)
+  - ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9219-8656" href="https://orcid.org/0000-0001-9219-8656" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9219-8656</a></div>
+  - GitHub: [github.com/KosukeMizuno/](https://github.com/KosukeMizuno/)
   - [Facebook](https://www.facebook.com/dotmapu)
 
 
@@ -15,19 +17,15 @@ Kosuke Mizuno (水野 皓介)
   - Since April 2018 -- Now:
     - Doctral student
     - [Hatano-Iwasaki group](http://dia.pe.titech.ac.jp/), Department of Electrical and Electronic Engineering, School of Engineering
-  - March 2018:
-    - Master of Engineering, 修士（工学）
+  - March 2018: Master of Engineering, 修士（工学）
     - Hatano-Kodera group, Department of Electrical and Electronic Engineering, School of Engineering
-  - March 2016:
-    - Bachelor of Engineering, 学士（工学）
+  - March 2016: Bachelor of Engineering, 学士（工学）
     - Hatano-Kodera group, Department of Electrical and Electronic Engineering, School of Engineering
 
 - University of Stuttgart
-  - March 2018 -- March 2018:
-    - Internship
+  - March 2018 -- March 2018: Internship
     - Wrachtrup group, 3. Physikalisches Institut
-  - September 2018 -- December 2018:
-    - Internship (three months)
+  - September 2018 -- December 2018: Internship
     - Wrachtrup group, 3. Physikalisches Institut
 
 
