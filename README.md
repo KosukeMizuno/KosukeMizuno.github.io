@@ -8,8 +8,8 @@ Kosuke Mizuno (水野 皓介)
 - Links
   - ORCID: [![orcid id icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)0000-0001-9219-8656](https://orcid.org/0000-0001-9219-8656)
   - GitHub: [github.com/KosukeMizuno/](https://github.com/KosukeMizuno/)
-  - [Facebook](https://www.facebook.com/dotmapu)
   - Twitter: [@KosukeMizuno93](https://twitter.com/KosukeMizuno93)
+  - [Facebook](https://www.facebook.com/dotmapu)
 
 
 ## EDUCATION
