@@ -3,7 +3,7 @@ Activity list
 # Profile
 
 Kosuke Mizuno (水野 皓介)
-- Doctral student, 博士後期課程学生
+- Doctor of Engineering
 
 - Links
   - ORCID: [![orcid id icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)0000-0001-9219-8656](https://orcid.org/0000-0001-9219-8656)
@@ -15,8 +15,7 @@ Kosuke Mizuno (水野 皓介)
 ## EDUCATION
 
 - [Tokyo Institute of Technology](https://www.titech.ac.jp/) (Tokyo Tech., 東京工業大学)
-  - Since April 2018 -- Now:
-    - Doctral student
+  - March 2021: Doctor of Engineering, 博士（工学）
     - [Hatano-Iwasaki group](http://dia.pe.titech.ac.jp/), Department of Electrical and Electronic Engineering, School of Engineering
   - March 2018: Master of Engineering, 修士（工学）
     - Hatano-Kodera group, Department of Electrical and Electronic Engineering, School of Engineering
@@ -32,10 +31,10 @@ Kosuke Mizuno (水野 皓介)
 
 ## FELLOWSHIP / SCHOLARSHIP
 
-- Since October 2016 -- Now:
+- October 2016 -- March 2021:
   - [Academy for Co-creative Education of Environment and Energy Science](http://www.eae.titech.ac.jp/ACEEES/index-e.html)
   - Leading Graduate School, Tokyo Institute of Technology (リーディング大学院ACEEES)
-- Since April 2019 -- Now:
+- April 2019 -- March 2021:
   - Tsubame Scholarship for Doctoral Students
 
 
