@@ -3,7 +3,7 @@ Activity list
 # Profile
 
 Kosuke Mizuno (水野 皓介)
-- Doctor of Engineering
+- Doctor of Engineering, 博士（工学）
 
 - Links
   - ORCID: [![orcid id icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)0000-0001-9219-8656](https://orcid.org/0000-0001-9219-8656)
@@ -15,7 +15,7 @@ Kosuke Mizuno (水野 皓介)
 ## CAREER
 
 - April 2021 -- Now
-  - Postdoc at NTT Basic Research Laboratories
+  - Research associate (Postdoc) at NTT Basic Research Laboratories
   - Quantum Science and Technology Laboratory
   - [Superconducting Quantum Circuit Research Group](http://www.brl.ntt.co.jp/e/group_015/group_015.html)
 
