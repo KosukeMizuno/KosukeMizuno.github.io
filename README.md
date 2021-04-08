@@ -12,6 +12,14 @@ Kosuke Mizuno (水野 皓介)
   - [Facebook](https://www.facebook.com/dotmapu)
 
 
+## CAREER
+
+- April 2021 -- Now
+  - Postdoc at NTT Basic Research Laboratories
+  - Quantum Science and Technology Laboratory
+  - [Superconducting Quantum Circuit Research Group](http://www.brl.ntt.co.jp/e/group_015/group_015.html)
+
+
 ## EDUCATION
 
 - [Tokyo Institute of Technology](https://www.titech.ac.jp/) (Tokyo Tech., 東京工業大学)
