@@ -59,6 +59,7 @@ Kosuke Mizuno (水野 皓介)
 
 # Publications
 
+- Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* (accepted).
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
 - Yang Bang, Takuya Murooka, **Kosuke Mizuno**, Kwangsoo Kim, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Marek E. Schmidt, Hiroshi Mizuta, Amir Yacoby, Mutsuko Hatano, and Takayuki Iwasaki, "Vector electrometry in a wide-gap semiconductor device using a spin ensemble quantum sensor", *Physical Review Applied* **14**, 044049 (2020), doi: [10.1103/PhysRevApplied.14.044049](https://doi.org/10.1103/PhysRevApplied.14.044049)
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, "Simultaneous Wide-field Imaging of Phase and Magnitude of AC Magnetic Signal Using Diamond Quantum Magnetometry", *Scientific Reports* **10**, 11611 (2020), doi: [10.1038/s41598-020-68404-5](https://doi.org/10.1038/s41598-020-68404-5)
