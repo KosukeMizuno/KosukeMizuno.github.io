@@ -70,6 +70,8 @@ Kosuke Mizuno (水野 皓介)
 
 # Conferences
 
+<!-- MRS Nov.2021 -->
+
 - Ryota Kitagawa, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Stress detection by a hybrid system based on piezoactive magnetic material and diamond quantum sensor towards biological mass microscopy", 31st International Conference on Diamond and Carbon Materials 2021 (online), oral and poster presentation, Sep. 2021.
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Takayuki Iwasaki, and Mutsuko Hatano, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", The 3rd International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2020.
 - Ryota Kitagawa, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Wide field detection of inverse magnetostrictive effect using NV centers in diamond towards biological mass microscopy", The 3rd International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2020.
