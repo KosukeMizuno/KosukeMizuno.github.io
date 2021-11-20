@@ -59,7 +59,7 @@ Kosuke Mizuno (水野 皓介)
 
 # Publications
 
-- Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* (accepted).
+- Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
 - Yang Bang, Takuya Murooka, **Kosuke Mizuno**, Kwangsoo Kim, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Marek E. Schmidt, Hiroshi Mizuta, Amir Yacoby, Mutsuko Hatano, and Takayuki Iwasaki, "Vector electrometry in a wide-gap semiconductor device using a spin ensemble quantum sensor", *Physical Review Applied* **14**, 044049 (2020), doi: [10.1103/PhysRevApplied.14.044049](https://doi.org/10.1103/PhysRevApplied.14.044049)
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, "Simultaneous Wide-field Imaging of Phase and Magnitude of AC Magnetic Signal Using Diamond Quantum Magnetometry", *Scientific Reports* **10**, 11611 (2020), doi: [10.1038/s41598-020-68404-5](https://doi.org/10.1038/s41598-020-68404-5)
@@ -70,8 +70,11 @@ Kosuke Mizuno (水野 皓介)
 
 # Conferences
 
-<!-- MRS Nov.2021 -->
+<!--
+- Ryota Kitagawa et al., "Sensitivity improvement of weight imaging using a hybrid system based on piezoactive magnetic material and diamond quantum sensor", The 4th International Forum on Quantum Metrology and Sensing, Dec. 2021.
+-->
 
+- Ryota Kitagawa, Shunsuke Nagata, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Imaging of weight distribution using a hybrid system based on piezoactive magnetic material and diamond quantum sensor", 2021 MRS Fall Meeting & Exhibit, Nov. 2021.
 - Ryota Kitagawa, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Stress detection by a hybrid system based on piezoactive magnetic material and diamond quantum sensor towards biological mass microscopy", 31st International Conference on Diamond and Carbon Materials 2021 (online), oral and poster presentation, Sep. 2021.
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Takayuki Iwasaki, and Mutsuko Hatano, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", The 3rd International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2020.
 - Ryota Kitagawa, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Wide field detection of inverse magnetostrictive effect using NV centers in diamond towards biological mass microscopy", The 3rd International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2020.
