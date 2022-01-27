@@ -59,6 +59,8 @@ Kosuke Mizuno (水野 皓介)
 
 # Publications
 
+<!-- murooka 解説 -->
+
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
 - Yang Bang, Takuya Murooka, **Kosuke Mizuno**, Kwangsoo Kim, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Marek E. Schmidt, Hiroshi Mizuta, Amir Yacoby, Mutsuko Hatano, and Takayuki Iwasaki, "Vector electrometry in a wide-gap semiconductor device using a spin ensemble quantum sensor", *Physical Review Applied* **14**, 044049 (2020), doi: [10.1103/PhysRevApplied.14.044049](https://doi.org/10.1103/PhysRevApplied.14.044049)
@@ -70,11 +72,10 @@ Kosuke Mizuno (水野 皓介)
 
 # Conferences
 
-<!--
-- Ryota Kitagawa et al., "Sensitivity improvement of weight imaging using a hybrid system based on piezoactive magnetic material and diamond quantum sensor", The 4th International Forum on Quantum Metrology and Sensing, Dec. 2021.
--->
-
-- Ryota Kitagawa, Shunsuke Nagata, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Imaging of weight distribution using a hybrid system based on piezoactive magnetic material and diamond quantum sensor", 2021 MRS Fall Meeting & Exhibit, Nov. 2021.
+- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Numerical Investigation of Gate Fidelity Using Optimal Control Theory on Bosonic Codes in a Circuit-QED System", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021. 
+- Takaaki Takenaka, Imran Mahboob, **Kosuke Mizuno**, T. Kubo, and T. Saeki, and Shiro Saito, "High-Q Superconducting 3D Cavities for Bosonic Codes", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021.
+- Ryota Kitagawa, Shunsuke Nagata, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Sensitivity improvement of weight imaging using a hybrid system based on piezoactive magnetic material and diamond quantum sensor", The 4th International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2021.
+- Ryota Kitagawa, Shunsuke Nagata, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Imaging of weight distribution using a hybrid system based on piezoactive magnetic material and diamond quantum sensor", 2021 MRS Fall Meeting & Exhibit (online), Nov. 2021.
 - Ryota Kitagawa, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Stress detection by a hybrid system based on piezoactive magnetic material and diamond quantum sensor towards biological mass microscopy", 31st International Conference on Diamond and Carbon Materials 2021 (online), oral and poster presentation, Sep. 2021.
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Takayuki Iwasaki, and Mutsuko Hatano, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", The 3rd International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2020.
 - Ryota Kitagawa, Soki Urashita, Keigo Arai, **Kosuke Mizuno**, Hitoshi Ishiwata, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Wide field detection of inverse magnetostrictive effect using NV centers in diamond towards biological mass microscopy", The 3rd International Forum on Quantum Metrology and Sensing (online), oral presentation, Dec. 2020.
@@ -95,6 +96,11 @@ Kosuke Mizuno (水野 皓介)
 
 
 # Conferences in Japan
+
+<!-- はるのやつ -->
+
+<!-- - 永田俊典, 北川涼太, 浦下宗輝, 荒井慧悟, **水野皓介**, 石綿整, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「磁歪材料を用いたダイヤモンド量子センサの応力感度の向上」, 第69回応用物理学会 春季学術講演会, 東京, 口頭発表, 2022年3月.
+ -->
 
 - 藤崎伊久哉, **水野皓介**, 荒井慧吾, 岩崎孝之, 波多野睦子,「数値計算による窒素核スピンを用いたダイヤモンド磁気センサの感度評価」, 第68回応用物理学会 春季学術講演会, オンライン, 口頭発表, 2020年3月.
 - 室岡拓也, 椎貝雅文, Hoang Minh Tuan, **水野皓介**, 加藤宙光, 牧野俊晴, 小倉雅彦, 山崎聡, 波多野睦子, 岩崎孝之, 「横型pinダイオードを用いたダイオードを用いたNVセンターの電気的読み出し」, 第81回応用物理学会 秋季学術講演会, オンライン開催, 口頭発表, 2020年9月.
