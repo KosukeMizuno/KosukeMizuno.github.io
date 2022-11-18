@@ -59,18 +59,17 @@ Kosuke Mizuno (水野 皓介)
 
 # Publications
 
-<!-- murooka 解説
-
-- 室岡 拓也, 椎貝 雅文, 弘中 友真, 辻 赳行, 楊 棒, ホアン ミン トゥアン, 須田 弘平, 水野 皓介, 加藤 宙光, 牧野 俊晴, 小倉 政彦, 山崎 聡, 波多野 睦子, 岩﨑 孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022)
-
- -->
-
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
 - Yang Bang, Takuya Murooka, **Kosuke Mizuno**, Kwangsoo Kim, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Marek E. Schmidt, Hiroshi Mizuta, Amir Yacoby, Mutsuko Hatano, and Takayuki Iwasaki, "Vector electrometry in a wide-gap semiconductor device using a spin ensemble quantum sensor", *Physical Review Applied* **14**, 044049 (2020), doi: [10.1103/PhysRevApplied.14.044049](https://doi.org/10.1103/PhysRevApplied.14.044049)
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, "Simultaneous Wide-field Imaging of Phase and Magnitude of AC Magnetic Signal Using Diamond Quantum Magnetometry", *Scientific Reports* **10**, 11611 (2020), doi: [10.1038/s41598-020-68404-5](https://doi.org/10.1038/s41598-020-68404-5)
 - Yuta Masuyama, **Kosuke Mizuno**, Hayato Ozawa, Hitoshi Ishiwata, Yuji Hatano, Takeshi Ohshima, Takayuki Iwasaki, and Mutsuko Hatano, "Extending coherence time of macro-scale diamond magnetometer by dynamical decoupling with coplanar waveguide resonator", *Review of Scientific Instruments* **89**, 125007 (2018), doi: [10.1063/1.5047078](https://doi.org/10.1063/1.5047078)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, “Wide-field diamond magnetometry with millihertz frequency resolution and nanotesla sensitivity”, *AIP Advances* **8**, 12, 125316 (2018), doi: [10.1063/1.5048265](https://doi.org/10.1063/1.5048265)
+
+
+# Journal article (without peer-review)
+
+- 室岡 拓也, 椎貝 雅文, 弘中 友真, 辻 赳行, 楊 棒, ホアン ミン トゥアン, 須田 弘平, 水野 皓介, 加藤 宙光, 牧野 俊晴, 小倉 政彦, 山崎 聡, 波多野 睦子, 岩﨑 孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022)
 
 
 
