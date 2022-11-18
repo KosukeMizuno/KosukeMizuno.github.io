@@ -41,8 +41,10 @@ Kosuke Mizuno (水野 皓介)
 - October 2016 -- March 2021:
   - [Academy for Co-creative Education of Environment and Energy Science](http://www.eae.titech.ac.jp/ACEEES/index-e.html)
   - Leading Graduate School, Tokyo Institute of Technology (リーディング大学院ACEEES)
-- April 2019 -- March 2021:
+- April 2019 -- March 2020:
   - Tsubame Scholarship for Doctoral Students
+- April 2020 -- March 2021:
+  - Tsubame Special Scholarship for Doctoral Students
 
 
 ## AWARDS
@@ -57,7 +59,11 @@ Kosuke Mizuno (水野 皓介)
 
 # Publications
 
-<!-- murooka 解説 -->
+<!-- murooka 解説
+
+- 室岡 拓也, 椎貝 雅文, 弘中 友真, 辻 赳行, 楊 棒, ホアン ミン トゥアン, 須田 弘平, 水野 皓介, 加藤 宙光, 牧野 俊晴, 小倉 政彦, 山崎 聡, 波多野 睦子, 岩﨑 孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022)
+
+ -->
 
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
