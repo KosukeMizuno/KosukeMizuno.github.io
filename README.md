@@ -86,6 +86,7 @@ Kosuke Mizuno (水野 皓介)
 - Bang Yang, Motoki Nakamura, Takuya Murooka, **Kosuke Mizuno**, Toshiharu Makino,  Hiromitsu Kato, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Nanoscale Vector Electrometry Using NV Centers in a Diamond Device", Hasselt Diamond Workshop 2020 SBDD XXIV (Hasselt, Belgium), poster presentation, Mar. 2020.
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Simultaneous amplitude and phase wide-field imaging of AC magnetic signal using diamond quantum magnetometry", The 2nd International Forum on Quantum Metrology and Sensing (Kyoto, Japan), poster presentation, Dec. 2019.
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Phase sensitive quantum magnetometry imaging using ensemble NV center in diamond on wide field optics", Gordon Research Conference (Hong-Kong, China), poster presentation, June 2019.
+- **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Phase sensitive quantum magnetometry imaging using ensemble NV center in diamond on wide field optics", Gordon Research Seminar (Hong-Kong, China), poster presentation, June 2019.
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Characteristics of phase sensitive protocol “iQdyne” for diamond quantum magnetometry in wide field optics", Hasselt Diamond Workshop 2019 SBDD XXIV (Hasselt, Belgium), poster presentation, Mar. 2019.
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Phase sensitive protocol "iQdyne" for wide-field diamond magnetometry", The First International Forum on Quantum Sensing (Tokyo, Japan), oral presentation, Feb. 2019.
 - Kwangsoo Kim, **Kosuke Mizuno**, Toshiharu Makino, Hiromitsu Kato, Masahiko Ogura, Daisuke Takeuchi, Satoshi Yamasaki, Mutsuko Hatano and Takayuki Iwasaki, "Quantum Electric-Field Imaging of Diamond Devices Using Nitrogen-Vacancy Centers", 2018 MRS Fall Meeting & Exhibit (Boston, USA), oral presentation, Nov. 2018. 
@@ -117,10 +118,9 @@ Kosuke Mizuno (水野 皓介)
 
 
 
-# Other meetings
+# Other
 
 - **水野皓介**, 山崎健太郎, 西尾有輝, 石綿整, 藤咲貴大, 大木出, 岩崎孝之, 波多野睦子, 五十嵐龍治, 白川昌宏, 「微小体積でのパラ水素超偏極NMR測定を目的としたフローセル付きダイヤモンド磁気センサの作製」, 量子生命科学会 若手の会 第1回研究会, 千葉, 口頭発表, 2019年11月.
-- **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Phase sensitive quantum magnetometry imaging using ensemble NV center in diamond on wide field optics", Gordon Research Seminar (Hong-Kong, China), poster presentation, June 2019.
 
 
 
