@@ -30,9 +30,9 @@ Kosuke Mizuno (水野 皓介)
     - Hatano-Kodera group, Department of Electrical and Electronic Engineering, School of Engineering
 
 - University of Stuttgart
-  - March 2018 -- March 2018: Internship
-    - Wrachtrup group, 3. Physikalisches Institut
   - September 2018 -- December 2018: Internship
+    - Wrachtrup group, 3. Physikalisches Institut
+  - March 2018 -- March 2018: Internship
     - Wrachtrup group, 3. Physikalisches Institut
 
 
@@ -41,10 +41,10 @@ Kosuke Mizuno (水野 皓介)
 - October 2016 -- March 2021:
   - [Academy for Co-creative Education of Environment and Energy Science](http://www.eae.titech.ac.jp/ACEEES/index-e.html)
   - Leading Graduate School, Tokyo Institute of Technology (リーディング大学院ACEEES)
-- April 2019 -- March 2020:
-  - Tsubame Scholarship for Doctoral Students
 - April 2020 -- March 2021:
   - Tsubame Special Scholarship for Doctoral Students
+- April 2019 -- March 2020:
+  - Tsubame Scholarship for Doctoral Students
 
 
 ## AWARDS
