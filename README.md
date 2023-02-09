@@ -59,6 +59,8 @@ Kosuke Mizuno (水野 皓介)
 
 # Publications
 
+- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
+
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
 - Yang Bang, Takuya Murooka, **Kosuke Mizuno**, Kwangsoo Kim, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Marek E. Schmidt, Hiroshi Mizuta, Amir Yacoby, Mutsuko Hatano, and Takayuki Iwasaki, "Vector electrometry in a wide-gap semiconductor device using a spin ensemble quantum sensor", *Physical Review Applied* **14**, 044049 (2020), doi: [10.1103/PhysRevApplied.14.044049](https://doi.org/10.1103/PhysRevApplied.14.044049)
@@ -101,6 +103,10 @@ Kosuke Mizuno (水野 皓介)
 
 # Conferences in Japan
 
+- 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビット実装の取り組み」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
+- **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「超伝導共振器中を用いたボソニック量子ビットの特性評価」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
+
+- 竹中崇了, Imran Mahboob, **水野皓介**, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットの設計と性能評価, 日本物理学会秋季大会, オンライン, 口頭発表, 2022年9月. 
 - 永田俊典, 北川涼太, 浦下宗輝, 荒井慧悟, **水野皓介**, 石綿整, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「磁歪材料を用いたダイヤモンド量子センサの応力感度の向上」, 第69回応用物理学会 春季学術講演会, 東京, 口頭発表, 2022年3月.
 - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「超伝導共振器中のボソニック量子ビットに関する最適操作ゲート忠実度の数値的評価」, 日本物理学会第77回年次大会, オンライン, 口頭発表, 2022年3月. 
 - 藤崎伊久哉, **水野皓介**, 荒井慧吾, 岩崎孝之, 波多野睦子,「数値計算による窒素核スピンを用いたダイヤモンド磁気センサの感度評価」, 第68回応用物理学会 春季学術講演会, オンライン, 口頭発表, 2020年3月.
