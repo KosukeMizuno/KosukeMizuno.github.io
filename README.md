@@ -75,6 +75,9 @@ Kosuke Mizuno (水野 皓介)
 
 ## Journal Articles (not reviewed)
 
+- NTT 技術ジャーナル
+- NTT Technology Review
+
 - 室岡 拓也, 椎貝 雅文, 弘中 友真, 辻 赳行, 楊 棒, ホアン ミン トゥアン, 須田 弘平, 水野 皓介, 加藤 宙光, 牧野 俊晴, 小倉 政彦, 山崎 聡, 波多野 睦子, 岩﨑 孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022)
 
 
