@@ -60,15 +60,18 @@ Kosuke Mizuno (水野 皓介)
 
 ## preprint
 
-- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
-
+- n/a
 
 ## Journal Articles
 
+- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", *New Journal of Physics* **25**, 033007 (2023), doi: [10.1088/1367-2630/acc02e](https://doi.org/10.1088/1367-2630/acc02e). arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
+
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001 (2021), doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868)
+
 - Yang Bang, Takuya Murooka, **Kosuke Mizuno**, Kwangsoo Kim, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Marek E. Schmidt, Hiroshi Mizuta, Amir Yacoby, Mutsuko Hatano, and Takayuki Iwasaki, "Vector electrometry in a wide-gap semiconductor device using a spin ensemble quantum sensor", *Physical Review Applied* **14**, 044049 (2020), doi: [10.1103/PhysRevApplied.14.044049](https://doi.org/10.1103/PhysRevApplied.14.044049)
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, "Simultaneous Wide-field Imaging of Phase and Magnitude of AC Magnetic Signal Using Diamond Quantum Magnetometry", *Scientific Reports* **10**, 11611 (2020), doi: [10.1038/s41598-020-68404-5](https://doi.org/10.1038/s41598-020-68404-5)
+
 - Yuta Masuyama, **Kosuke Mizuno**, Hayato Ozawa, Hitoshi Ishiwata, Yuji Hatano, Takeshi Ohshima, Takayuki Iwasaki, and Mutsuko Hatano, "Extending coherence time of macro-scale diamond magnetometer by dynamical decoupling with coplanar waveguide resonator", *Review of Scientific Instruments* **89**, 125007 (2018), doi: [10.1063/1.5047078](https://doi.org/10.1063/1.5047078)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, “Wide-field diamond magnetometry with millihertz frequency resolution and nanotesla sensitivity”, *AIP Advances* **8**, 12, 125316 (2018), doi: [10.1063/1.5048265](https://doi.org/10.1063/1.5048265)
 
