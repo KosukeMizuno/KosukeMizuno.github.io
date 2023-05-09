@@ -64,6 +64,7 @@ Kosuke Mizuno (水野 皓介)
 
 ## Journal Articles
 
+- Ryota Kitagawa, Shunsuke Nagata, Keigo Arai, **Kosuke Mizuno**, Takeyuki Tsuji, Ikuya Fujisaki, Soki Urashita, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Pressure Sensor Using a Hybrid Structure of a Magnetostrictive Layer and Nitrogen-Vacancy Centers in Diamond", *Physcal Revew Applied* **19**, 044089 (2023), : doi: [10.1103/PhysRevApplied.19.044089](https://doi.org/10.1103/PhysRevApplied.19.044089).
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", *New Journal of Physics* **25**, 033007 (2023), doi: [10.1088/1367-2630/acc02e](https://doi.org/10.1088/1367-2630/acc02e). arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
 
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
@@ -88,6 +89,10 @@ Kosuke Mizuno (水野 皓介)
 # Conferences
 
 ## International Conferences
+
+- Kitagawa
+
+- Kosuke Mizuno, SQA
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Numerical Investigation of Gate Fidelity Using Optimal Control Theory on Bosonic Codes in a Circuit-QED System", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021. 
 - Takaaki Takenaka, Imran Mahboob, **Kosuke Mizuno**, T. Kubo, and T. Saeki, and Shiro Saito, "High-Q Superconducting 3D Cavities for Bosonic Codes", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021.
