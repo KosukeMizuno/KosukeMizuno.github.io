@@ -16,7 +16,7 @@ Kosuke Mizuno (水野 皓介)
   - Research associate (Postdoc) at NTT Basic Research Laboratories
   - Quantum Science and Technology Laboratory
   - [Superconducting Quantum Circuit Research Group](http://www.brl.ntt.co.jp/e/group_015/group_015.html)
-- June 2016 -- Febrary 2021
+- June 2016 -- February 2021
   - Research Assistant
   - Tokyo Institute of Technology
 - June 2016 -- September 2019
