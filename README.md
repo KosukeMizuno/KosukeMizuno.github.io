@@ -64,7 +64,7 @@ Kosuke Mizuno (水野 皓介)
 
 ## Journal Articles
 
-- Ryota Kitagawa, Shunsuke Nagata, Keigo Arai, **Kosuke Mizuno**, Takeyuki Tsuji, Ikuya Fujisaki, Soki Urashita, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Pressure Sensor Using a Hybrid Structure of a Magnetostrictive Layer and Nitrogen-Vacancy Centers in Diamond", *Physcal Revew Applied* **19**, 044089 (2023), : doi: [10.1103/PhysRevApplied.19.044089](https://doi.org/10.1103/PhysRevApplied.19.044089).
+- Ryota Kitagawa, Shunsuke Nagata, Keigo Arai, **Kosuke Mizuno**, Takeyuki Tsuji, Ikuya Fujisaki, Soki Urashita, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Pressure Sensor Using a Hybrid Structure of a Magnetostrictive Layer and Nitrogen-Vacancy Centers in Diamond", *Physical Review Applied* **19**, 044089 (2023), : doi: [10.1103/PhysRevApplied.19.044089](https://doi.org/10.1103/PhysRevApplied.19.044089).
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", *New Journal of Physics* **25**, 033007 (2023), doi: [10.1088/1367-2630/acc02e](https://doi.org/10.1088/1367-2630/acc02e). arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
 
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502 (2021), doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852)
@@ -90,8 +90,7 @@ Kosuke Mizuno (水野 皓介)
 
 ## International Conferences
 
-- Kitagawa
-
+- Kitagawa ?
 - Kosuke Mizuno, SQA
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Numerical Investigation of Gate Fidelity Using Optimal Control Theory on Bosonic Codes in a Circuit-QED System", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021. 
@@ -122,6 +121,9 @@ Kosuke Mizuno (水野 皓介)
 
 
 ## Conferences in Japan
+
+- 竹中, 応物2023秋
+- 北川, 応物2023秋
 
 - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビット実装の取り組み」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
 - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「超伝導共振器中を用いたボソニック量子ビットの特性評価」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
