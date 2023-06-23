@@ -83,11 +83,9 @@ Kosuke Mizuno (水野 皓介)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, “Wide-field diamond magnetometry with millihertz frequency resolution and nanotesla sensitivity”, *AIP Advances* **8**, 12, 125316 (2018), doi: [10.1063/1.5048265](https://doi.org/10.1063/1.5048265)
 
 
-## Journal Articles (not reviewed)
+## Journal Article (not reviewed)
 
-- in prep
-  - Technical Review
-
+- Shiro Saito, **Kosuke Mizuno**, Takaaki Takenaka, Hiraku Toida, and Kosuke Kakuyanagi, "Quantum Information Technology Based on Superconducting Quantum Circuits", *NTT Technical Review* **21**, 6 (2023), url: <https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202306fa3.html>.
 - 齊藤志郎, **水野皓介**, 竹中崇了, 樋田啓, 角柳考輔, 「超伝導量子回路に基づく量子情報技術」, *NTT技術ジャーナル* **35**, 4 (2023), url: <https://journal.ntt.co.jp/backnumber/2023/vol3504>.
 - 室岡拓也, 椎貝雅文, 弘中友真, 辻赳行, 楊棒, ホアン ミン トゥアン, 須田弘平, **水野皓介**, 加藤宙光, 牧野俊晴, 小倉政彦, 山崎聡, 波多野睦子, 岩﨑孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022).
 
