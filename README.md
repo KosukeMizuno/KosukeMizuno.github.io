@@ -85,10 +85,11 @@ Kosuke Mizuno (水野 皓介)
 
 ## Journal Articles (not reviewed)
 
-- NTT 技術ジャーナル
-- NTT Technology Review
+- in prep
+  - Technical Review
 
-- 室岡 拓也, 椎貝 雅文, 弘中 友真, 辻 赳行, 楊 棒, ホアン ミン トゥアン, 須田 弘平, 水野 皓介, 加藤 宙光, 牧野 俊晴, 小倉 政彦, 山崎 聡, 波多野 睦子, 岩﨑 孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022)
+- 齊藤志郎, **水野皓介**, 竹中崇了, 樋田啓, 角柳考輔, 「超伝導量子回路に基づく量子情報技術」, *NTT技術ジャーナル* **35**, 4 (2023), url: <https://journal.ntt.co.jp/backnumber/2023/vol3504>.
+- 室岡拓也, 椎貝雅文, 弘中友真, 辻赳行, 楊棒, ホアン ミン トゥアン, 須田弘平, **水野皓介**, 加藤宙光, 牧野俊晴, 小倉政彦, 山崎聡, 波多野睦子, 岩﨑孝之, 「pinダイオードを用いたダイヤモンド量子センサのスピン情報の電気的読出し」, *New Diamond* **145**, 17 (2022).
 
 
 
@@ -96,8 +97,9 @@ Kosuke Mizuno (水野 皓介)
 
 ## International Conferences
 
-- Kitagawa ?
-- Kosuke Mizuno, SQA
+- scheduled:
+  - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
+  - Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Numerical Investigation of Gate Fidelity Using Optimal Control Theory on Bosonic Codes in a Circuit-QED System", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021. 
 - Takaaki Takenaka, Imran Mahboob, **Kosuke Mizuno**, T. Kubo, and T. Saeki, and Shiro Saito, "High-Q Superconducting 3D Cavities for Bosonic Codes", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021.
@@ -128,8 +130,9 @@ Kosuke Mizuno (水野 皓介)
 
 ## Conferences in Japan
 
-- 竹中, 応物2023秋
-- 北川, 応物2023秋
+- scheduled:
+  - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットにおける補助量子ビットの特性改善」, 第84回応用物理学会 秋季学術講演会, 熊本, 口頭発表, 2023年9月.
+  - 北川涼太, 永田俊典, 孝橋照生, 中司碧, 辻赳行, 仁田帆南, **水野皓介**, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「ダイヤモンド量子センサを用いたパワエレ用磁性薄膜の磁化過程のイメージング」, 第84回応用物理学会 秋季学術講演会, 熊本, 口頭発表, 2023年9月.
 
 - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビット実装の取り組み」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
 - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「超伝導共振器中を用いたボソニック量子ビットの特性評価」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
