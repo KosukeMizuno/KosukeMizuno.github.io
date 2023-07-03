@@ -10,7 +10,7 @@ Kosuke Mizuno (水野 皓介)
   - GitHub: [github.com/KosukeMizuno/](https://github.com/KosukeMizuno/)
 
 
-## CAREER
+## CAREER, WORK EXPERIENCE
 
 - April 2021 -- Now
   - Research associate (Postdoc) at NTT Basic Research Laboratories
@@ -35,9 +35,9 @@ Kosuke Mizuno (水野 皓介)
     - Hatano-Kodera group, Department of Electrical and Electronic Engineering, School of Engineering
 
 - University of Stuttgart
-  - September 2018 -- December 2018: Internship
+  - September 2018 -- December 2018: Internship student
     - Wrachtrup group, 3. Physikalisches Institut
-  - March 2018 -- March 2018: Internship
+  - March 2018 -- March 2018: Internship student
     - Wrachtrup group, 3. Physikalisches Institut
 
 
@@ -60,6 +60,19 @@ Kosuke Mizuno (水野 皓介)
 - 第4回エレクトロニクスソサイエティ優秀学生修了表彰 (The 4th Electronics society student award), from 電子情報通信学会 (The Institute of Electronics, Information and Communication Engineers), March 2018.
 - 優秀修士論文賞 (Outstanding master thesis award), from 東京工業大学 (Tokyo Institute of Technology), March 2018.
 
+
+## SKILLS
+
+- Research skills:
+  - Spectroscopy and quantum control of superconducting qubits, microwave resonators, and point-defect qubits in solid
+  - Designing and building microwave circuits for RT and mK systems
+  - Designing and building laser optics (confocal microscope and wide-field microscope)
+  - Programming (main language: python): Numerical simulation of qubit dynamics, microwave systems, and laser optics / Measurement software with GUI / Gradient-based optimization for quantum optimal control
+  - Design of experimental systems with finit element method (COMSOL) and CAD (solidworks, Fusion)
+  - chemical processes and fabrication: acid cleaning, photolithography, RF sputtering, etc
+- Language skills:
+  - Japanese (native language)
+  - English (scientific research level)
 
 
 # Publications
