@@ -20,7 +20,7 @@ Kosuke Mizuno (水野 皓介)
   - Research Assistant
   - Tokyo Institute of Technology
 - June 2016 -- September 2019
-  - Taching Assistant
+  - Teaching Assistant
   - Tokyo Institute of Technology
 
 
