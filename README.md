@@ -93,7 +93,7 @@ Kosuke Mizuno (水野 皓介)
 - **Kosuke Mizuno**, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, "Simultaneous Wide-field Imaging of Phase and Magnitude of AC Magnetic Signal Using Diamond Quantum Magnetometry", *Scientific Reports* **10**, 11611 (2020), doi: [10.1038/s41598-020-68404-5](https://doi.org/10.1038/s41598-020-68404-5)
 
 - Yuta Masuyama, **Kosuke Mizuno**, Hayato Ozawa, Hitoshi Ishiwata, Yuji Hatano, Takeshi Ohshima, Takayuki Iwasaki, and Mutsuko Hatano, "Extending coherence time of macro-scale diamond magnetometer by dynamical decoupling with coplanar waveguide resonator", *Review of Scientific Instruments* **89**, 125007 (2018), doi: [10.1063/1.5047078](https://doi.org/10.1063/1.5047078)
-- **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, “Wide-field diamond magnetometry with millihertz frequency resolution and nanotesla sensitivity”, *AIP Advances* **8**, 12, 125316 (2018), doi: [10.1063/1.5048265](https://doi.org/10.1063/1.5048265)
+- **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki, and Mutsuko Hatano, "Wide-field diamond magnetometry with millihertz frequency resolution and nanotesla sensitivity", *AIP Advances* **8**, 12, 125316 (2018), doi: [10.1063/1.5048265](https://doi.org/10.1063/1.5048265)
 
 
 ## Other Articles
@@ -109,8 +109,10 @@ Kosuke Mizuno (水野 皓介)
 ## International Conferences
 
 - scheduled:
-  - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
-  - Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
+  - n/a
+
+- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
+- Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Numerical Investigation of Gate Fidelity Using Optimal Control Theory on Bosonic Codes in a Circuit-QED System", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021. 
 - Takaaki Takenaka, Imran Mahboob, **Kosuke Mizuno**, T. Kubo, and T. Saeki, and Shiro Saito, "High-Q Superconducting 3D Cavities for Bosonic Codes", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021.
