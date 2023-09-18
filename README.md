@@ -5,15 +5,19 @@ Activity list
 Kosuke Mizuno (水野 皓介)
 - Doctor of Engineering, 博士（工学）
 
+![image](https://github.com/KosukeMizuno/KosukeMizuno.github.io/assets/43668684/63243af4-e382-4451-a804-21e06332441a)
+
+
 - Links
   - ORCID: [![orcid id icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)0000-0001-9219-8656](https://orcid.org/0000-0001-9219-8656)
-  - GitHub: [github.com/KosukeMizuno/](https://github.com/KosukeMizuno/)
+  - GitHub: [github.com/KosukeMizuno](https://github.com/KosukeMizuno/)
+  - Google Scholar: <https://scholar.google.co.jp/citations?user=88HtXUMAAAAJ>
 
 
 ## CAREER, WORK EXPERIENCE
 
 - April 2021 -- Now
-  - Research associate (Postdoc) at NTT Basic Research Laboratories
+  - Research Associate at NTT Basic Research Laboratories
   - Quantum Science and Technology Laboratory
   - [Superconducting Quantum Circuit Research Group](http://www.brl.ntt.co.jp/e/group_015/group_015.html)
 - June 2016 -- February 2021
