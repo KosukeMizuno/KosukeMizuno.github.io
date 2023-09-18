@@ -9,9 +9,10 @@ Kosuke Mizuno (水野 皓介)
 
 
 - Links
+  - Google Scholar: <https://scholar.google.co.jp/citations?user=88HtXUMAAAAJ>
   - ORCID: [![orcid id icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)0000-0001-9219-8656](https://orcid.org/0000-0001-9219-8656)
   - GitHub: [github.com/KosukeMizuno](https://github.com/KosukeMizuno/)
-  - Google Scholar: <https://scholar.google.co.jp/citations?user=88HtXUMAAAAJ>
+  - Linkedin: <https://www.linkedin.com/in/kosuke-mizuno-516900286/>
 
 
 ## CAREER, WORK EXPERIENCE
