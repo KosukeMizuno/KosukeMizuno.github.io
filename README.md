@@ -119,7 +119,7 @@ Kosuke Mizuno (水野 皓介)
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
 - Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
 
-- Ryota Kitagawa, Shunsuke Nagata1, Keigo Arai, **Kosuke Mizuno**, Takeyuki Tsuji, Soki Urashita, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Pressure sensor using hybrid structure of magnetostrictive layer and nitrogen-vacancy centers in diamond", Gordon Research Conference (Massachusetts, USA), poster presentation, July 2022.
+- Ryota Kitagawa, Shunsuke Nagata, Keigo Arai, **Kosuke Mizuno**, Takeyuki Tsuji, Soki Urashita, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Pressure sensor using hybrid structure of magnetostrictive layer and nitrogen-vacancy centers in diamond", Gordon Research Conference (Massachusetts, USA), poster presentation, July 2022.
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Numerical Investigation of Gate Fidelity Using Optimal Control Theory on Bosonic Codes in a Circuit-QED System", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021. 
 - Takaaki Takenaka, Imran Mahboob, **Kosuke Mizuno**, T. Kubo, and T. Saeki, and Shiro Saito, "High-Q Superconducting 3D Cavities for Bosonic Codes", International Symposium on Novel maTerials and quantum Technologies 2021 (online), poster presentation, Nov. 2021.
@@ -139,7 +139,7 @@ Kosuke Mizuno (水野 皓介)
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Phase sensitive protocol "iQdyne" for wide-field diamond magnetometry", The First International Forum on Quantum Sensing (Tokyo, Japan), oral presentation, Feb. 2019.
 
 - Kwangsoo Kim, **Kosuke Mizuno**, Toshiharu Makino, Hiromitsu Kato, Masahiko Ogura, Daisuke Takeuchi, Satoshi Yamasaki, Mutsuko Hatano and Takayuki Iwasaki, "Quantum Electric-Field Imaging of Diamond Devices Using Nitrogen-Vacancy Centers", 2018 MRS Fall Meeting & Exhibit (Boston, USA), oral presentation, Nov. 2018. 
-- Tuan M Hoang, Takeshi Ohshima, Makoto Nakajima, **Kosuke Mizuno**, Yuta Masuyam, Takayuki Iwasaki, Digh Hisamoto and Mutsuko Hatano, "Quantum sensing in 4H-SiC Power Devices", 2018 MRS Fall Meeting & Exhibit (Boston, USA), oral presentation, Nov. 2018.
+- Tuan M Hoang, Takeshi Ohshima, Makoto Nakajima, **Kosuke Mizuno**, Yuta Masuyama, Takayuki Iwasaki, Digh Hisamoto and Mutsuko Hatano, "Quantum sensing in 4H-SiC Power Devices", 2018 MRS Fall Meeting & Exhibit (Boston, USA), oral presentation, Nov. 2018.
 - Makoto Nakajima, Hitoshi Ishiwata, **Kosuke Mizuno**, Yuta Masuyama, Hayato Ozawa, Takayuki Iwasaki and Mutsuko Hatano, "CVD Growth of NV Center Film for NMR Application", 14th International Conference on Atomically Controlled Surfaces, Interfaces and Nanostructures (Senday, Japan), oral presentation, Oct. 2018. 
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Yuta Masuyama, Takayuki Iwasaki and Mutsuko Hatano, "Wide field diamond magnetometry with millihertz frequency resolution and nanotesla sensitivity", 29th International Conference on Diamond and Carbon Material (Dobrovnik, Croatia), oral and poster presentation, Sep. 2018.
 - Yuta Masuyama, **Kosuke Mizuno**, Hayato Ozawa, Yuji Hatano, Takayuki Iwasaki and Mutsuko Hatano, "Quantum magnetic sensing of large detection volume of nitrogen-vacancy centers with enhanced microwave irradiation", Hasselt Diamond Workshop 2018 (Hasselt, Belgium), poser presentation, Mar. 2018.
@@ -159,7 +159,7 @@ Kosuke Mizuno (水野 皓介)
 - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「超伝導共振器中を用いたボソニック量子ビットの特性評価」, 第70回応用物理学会 春季学術講演会, 東京, 口頭発表, 2023年3月.
 
 - 永田俊典, 北川涼太, 浦下宗輝, 荒井慧悟, **水野皓介**, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「磁歪材料を用いたダイヤモンド量子センサの応力感度の向上」, 第83回応用物理学会 秋季学術講演会, 東京, 口頭発表 (invited), 2022年9月.
-- 竹中崇了, Imran Mahboob, **水野皓介**, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットの設計と性能評価, 日本物理学会秋季大会, オンライン, 口頭発表, 2022年9月. 
+- 竹中崇了, Imran Mahboob, **水野皓介**, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットの設計と性能評価」, 日本物理学会秋季大会, オンライン, 口頭発表, 2022年9月. 
 - 永田俊典, 北川涼太, 浦下宗輝, 荒井慧悟, **水野皓介**, 石綿整, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「磁歪材料を用いたダイヤモンド量子センサの応力感度の向上」, 第69回応用物理学会 春季学術講演会, 東京, 口頭発表, 2022年3月.
 - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「超伝導共振器中のボソニック量子ビットに関する最適操作ゲート忠実度の数値的評価」, 日本物理学会第77回年次大会, オンライン, 口頭発表, 2022年3月. 
 
