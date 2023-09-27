@@ -84,7 +84,7 @@ Kosuke Mizuno (水野 皓介)
 
 ## preprint
 
-- Kosuke Mizuno, Ikuya Fujisaki, Hiroyoshi Tomioka, Hitoshi Ishiwata, Shinobu Onoda, Takayuki Iwasaki, Keigo Arai, and Mutsuko Hatano, "Fast coherent control of nitrogen-14 spins associated with nitrogen-vacancy centers in diamonds using dynamical decoupling", arXiv: [2309.14278](https://arxiv.org/abs/2309.14278)
+- **Kosuke Mizuno**, Ikuya Fujisaki, Hiroyoshi Tomioka, Hitoshi Ishiwata, Shinobu Onoda, Takayuki Iwasaki, Keigo Arai, and Mutsuko Hatano, "Fast coherent control of nitrogen-14 spins associated with nitrogen-vacancy centers in diamonds using dynamical decoupling", arXiv: [2309.14278](https://arxiv.org/abs/2309.14278)
 
 ## Journal Articles
 
@@ -115,6 +115,8 @@ Kosuke Mizuno (水野 皓介)
 
 - scheduled:
   - n/a
+
+<!-- memo: QIE2023 -->
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
 - Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
