@@ -84,7 +84,7 @@ Kosuke Mizuno (水野 皓介)
 
 ## preprint
 
-- n/a
+- Kosuke Mizuno, Ikuya Fujisaki, Hiroyoshi Tomioka, Hitoshi Ishiwata, Shinobu Onoda, Takayuki Iwasaki, Keigo Arai, and Mutsuko Hatano, "Fast coherent control of nitrogen-14 spins associated with nitrogen-vacancy centers in diamonds using dynamical decoupling", arXiv: [2309.14278](https://arxiv.org/abs/2309.14278)
 
 ## Journal Articles
 
