@@ -114,9 +114,7 @@ Kosuke Mizuno (水野 皓介)
 ## International Conferences
 
 - scheduled:
-  - n/a
-
-<!-- memo: QIE2023 -->
+  - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "The effect of storage and readout resonator coupling on the tomography of a bosonic qubit", 1st International Workshop on Quantum Information Engineering (Okinawa, Japan), poster presentation, Oct. 2023.
 
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
 - Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
