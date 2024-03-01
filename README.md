@@ -84,12 +84,14 @@ Kosuke Mizuno (水野 皓介)
 
 ## preprint
 
-- **Kosuke Mizuno**, Ikuya Fujisaki, Hiroyoshi Tomioka, Hitoshi Ishiwata, Shinobu Onoda, Takayuki Iwasaki, Keigo Arai, and Mutsuko Hatano, "Fast coherent control of nitrogen-14 spins associated with nitrogen-vacancy centers in diamonds using dynamical decoupling", arXiv: [2309.14278](https://arxiv.org/abs/2309.14278)
+- n/a
 
 ## Journal Articles
 
+- **Kosuke Mizuno**, Ikuya Fujisaki, Hiroyoshi Tomioka, Hitoshi Ishiwata, Shinobu Onoda, Takayuki Iwasaki, Keigo Arai, and Mutsuko Hatano, "Fast coherent control of nitrogen-14 spins associated with nitrogen-vacancy centers in diamonds using dynamical decoupling", *Journal of Physics Communications*, February 2024, doi: [10.1088/2399-6528/ad2b8b](https://doi.org/10.1088/2399-6528/ad2b8b), arXiv: [2309.14278](https://arxiv.org/abs/2309.14278)
+
 - Ryota Kitagawa, Shunsuke Nagata, Keigo Arai, **Kosuke Mizuno**, Takeyuki Tsuji, Ikuya Fujisaki, Soki Urashita, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Pressure Sensor Using a Hybrid Structure of a Magnetostrictive Layer and Nitrogen-Vacancy Centers in Diamond", *Physical Review Applied* **19**, 044089, April 2023, doi: [10.1103/PhysRevApplied.19.044089](https://doi.org/10.1103/PhysRevApplied.19.044089).
-- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", *New Journal of Physics* **25**, 033007, March 2023, doi: [10.1088/1367-2630/acc02e](https://doi.org/10.1088/1367-2630/acc02e). arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
+- **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", *New Journal of Physics* **25**, 033007, March 2023, doi: [10.1088/1367-2630/acc02e](https://doi.org/10.1088/1367-2630/acc02e), arXiv: [2211.04838](https://arxiv.org/abs/2211.04838).
 
 - Takuya Murooka, Masafumi Shiigai, Yuta Hironaka, Takeyuki Tsuji, Bang Yang, Tuan M Hoang, Kohei Suda, **Kosuke Mizuno**, Hiromitsu Kato, Toshiharu Makino, Masahiko Ogura, Satoshi Yamasaki, Mutsuko Hatano, and Takayuki Iwasaki, "Photoelectrical Detection of Nitrogen-Vacancy Centers by Utilizing Diamond Lateral p–i–n Diodes", *Applied Physics Letters* **118**, 253502, May 2021, doi: [10.1063/5.0055852](https://doi.org/10.1063/5.0055852).
 - **Kosuke Mizuno**, Makoto Nakajima, Hitoshi Ishiwata, Mutsuko Hatano, and Takayuki Iwasaki, "Electron Spin Contrast of High Density and Perfectly Aligned Nitrogen-Vacancy Centers Synthesized by Chemical Vapor Deposition", *Applied Physics Express* **14**, 032001, January 2021, doi: [10.35848/1882-0786/abd868](https://doi.org/10.35848/1882-0786/abd868).
@@ -115,6 +117,7 @@ Kosuke Mizuno (水野 皓介)
 
 - scheduled:
   - n/a
+
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "The effect of storage and readout resonator coupling on the tomography of a bosonic qubit", 1st International Workshop on Quantum Information Engineering (Okinawa, Japan), poster presentation, Oct. 2023.
 - **Kosuke Mizuno**, Takaaki Takenaka, Imran Mahboob, and Shiro Saito, "Effect of Decoherence for Gate Operations on a Superconducting Bosonic Qubit", Superconducting Qubits and Algorithms (Munich, Germany), poster presentation, Aug. 2023.
 - Ryota Kitagawa, Shunsuke Nagata, Ryoma Matsuki, Keigo Arai, **Kosuke Mizuno**, Teruo Kohashi, Yota Takamura, Takayuki Iwasaki, Shigeki Nakagawa, and Mutsuko Hatano, "Characterization of electric field control of magnetic domain structure in piezoelectric-magnetostrictive multiferroic hybrid structure using diamond quantum imager", SPICE Quantum Spintronics workshop (Ingelheim, Germany), poster presentation, June 2023.
@@ -151,7 +154,9 @@ Kosuke Mizuno (水野 皓介)
 ## Conferences in Japan
 
 - scheduled:
-  - n/a
+  - 北川涼太, 中司碧, 孝橋照生, 辻赳行, 仁田帆南, **水野皓介**, 高村陽太, 岩﨑孝之, 中川茂樹, 波多野睦子, 「ダイヤモンド量子センサを用いたパワエレ用軟磁性薄膜のMHzまでの交流磁気特性のイメージング」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
+  - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットにおける補助量子ビット作製工程および設計の改善」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
+  - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「有限要素法解析による超伝導ボソニック量子ビットの設計」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
 
 - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットにおける補助量子ビットの特性改善」, 第84回応用物理学会 秋季学術講演会, 熊本, 口頭発表, 2023年9月.
 - 北川涼太, 永田俊典, 孝橋照生, 中司碧, 辻赳行, 仁田帆南, **水野皓介**, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「ダイヤモンド量子センサを用いたパワエレ用磁性薄膜の磁化過程のイメージング」, 第84回応用物理学会 秋季学術講演会, 熊本, 口頭発表, 2023年9月.
