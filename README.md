@@ -17,16 +17,18 @@ Kosuke Mizuno (水野 皓介)
 
 ## CAREER, WORK EXPERIENCE
 
-- April 2021 -- Now
-  - Research Associate at NTT Basic Research Laboratories
+- April 2024 -- now
+  - Researcher at *National Institute of Advanced Industrial Science and Technology (AIST)*
+  - Global Research and Development Center for Business by Quantum-AI Technology (G-QuAT)
+  - [Quantum Device Measurement Team](https://unit.aist.go.jp/g-quat/en/groups/dmt.html)
+- April 2021 -- March 2024
+  - Research Associate at *NTT Basic Research Laboratories*
   - Quantum Science and Technology Laboratory
   - [Superconducting Quantum Circuit Research Group](http://www.brl.ntt.co.jp/e/group_015/group_015.html)
 - June 2016 -- February 2021
-  - Research Assistant
-  - Tokyo Institute of Technology
+  - Research Assistant at *Tokyo Institute of Technology*
 - June 2016 -- September 2016
-  - Teaching Assistant
-  - Tokyo Institute of Technology
+  - Teaching Assistant at *Tokyo Institute of Technology*
 
 
 ## EDUCATION
@@ -154,9 +156,11 @@ Kosuke Mizuno (水野 皓介)
 ## Conferences in Japan
 
 - scheduled:
-  - 北川涼太, 中司碧, 孝橋照生, 辻赳行, 仁田帆南, **水野皓介**, 高村陽太, 岩﨑孝之, 中川茂樹, 波多野睦子, 「ダイヤモンド量子センサを用いたパワエレ用軟磁性薄膜のMHzまでの交流磁気特性のイメージング」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
-  - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットにおける補助量子ビット作製工程および設計の改善」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
-  - **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「有限要素法解析による超伝導ボソニック量子ビットの設計」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
+  - n/a
+
+- 北川涼太, 中司碧, 孝橋照生, 辻赳行, 仁田帆南, **水野皓介**, 高村陽太, 岩﨑孝之, 中川茂樹, 波多野睦子, 「ダイヤモンド量子センサを用いたパワエレ用軟磁性薄膜のMHzまでの交流磁気特性のイメージング」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
+- 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットにおける補助量子ビット作製工程および設計の改善」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
+- **水野皓介**, 竹中崇了, Imran Mahboob, 齊藤志郎, 「有限要素法解析による超伝導ボソニック量子ビットの設計」, 第71回応用物理学会 春季学術講演会, 東京, 口頭発表, 2024年3月.
 
 - 竹中崇了, **水野皓介**, Imran Mahboob, 齊藤志郎, 「超伝導共振器を用いたボソニック量子ビットにおける補助量子ビットの特性改善」, 第84回応用物理学会 秋季学術講演会, 熊本, 口頭発表, 2023年9月.
 - 北川涼太, 永田俊典, 孝橋照生, 中司碧, 辻赳行, 仁田帆南, **水野皓介**, 高村陽太, 岩崎孝之, 中川茂樹, 波多野睦子, 「ダイヤモンド量子センサを用いたパワエレ用磁性薄膜の磁化過程のイメージング」, 第84回応用物理学会 秋季学術講演会, 熊本, 口頭発表, 2023年9月.
